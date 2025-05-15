@@ -10,12 +10,5 @@ demonstrates the integration of key DevOps practices like infrastructure automat
 continuous delivery, monitoring, and containerization in a simplified healthcare
 setting.
 
-## What technologies are used for this project?
-This project is built with:
-- Vite
-- React
-- shadcn-ui
-- Tailwind CSS
-
 
 
